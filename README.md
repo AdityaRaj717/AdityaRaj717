@@ -38,6 +38,6 @@ Currently, I’m sharpening my skills in JavaScript, React, Node.js, and DevOps 
 
 ### 📊 Stats
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaRaj717&show_icons=true&theme=transparent)]
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaRaj717&show_icons=true&theme=dracula)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
