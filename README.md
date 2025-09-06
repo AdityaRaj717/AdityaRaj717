@@ -35,6 +35,15 @@ Currently, I’m sharpening my skills in JavaScript, React, Node.js, and DevOps 
 <br />
 
 #
+<br />
+
+<div style="margin-bottom:48px;" align="center">
+
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaRaj717&theme=tokyonight&hide_border=false&layout=compact)
+
+</div>
+
+#
 
 <!-- ### 📊 Stats -->
 
